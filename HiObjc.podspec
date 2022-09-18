@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HiObjc'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'iOS App Framework.'
   s.description      = <<-DESC
 						iOS App Framework using ObjC.
