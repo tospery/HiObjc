@@ -1,0 +1,6 @@
+framework module HiObjc {
+  umbrella header "HiObjc-umbrella.h"
+
+  export *
+  module * { export * }
+}

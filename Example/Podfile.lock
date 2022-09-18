@@ -1,0 +1,16 @@
+PODS:
+  - HiObjc (0.1.0)
+
+DEPENDENCIES:
+  - HiObjc (from `../`)
+
+EXTERNAL SOURCES:
+  HiObjc:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HiObjc: 837ea8ad560c60f6fadd850e45a797bc68211f75
+
+PODFILE CHECKSUM: 4f1bbdb328b870e974d7f291d93cdc29cd5bf238
+
+COCOAPODS: 1.11.3
